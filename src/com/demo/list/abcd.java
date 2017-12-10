@@ -5,6 +5,7 @@ public class abcd {
 		//System.out.println("123465");
 		
 		String s = "jfdsjfas%fdjljgj,fjdhfkljs%flkgl,lfojjh%fdgdtgr";
+		String s1 = "jfdsjfas%fdjljgj,fjdhfkljs%flkgl,lfojjh%fdgdtgr";
 		System.out.println(s);
 		String[] productIdsArray = s.split(",");
 		//System.out.println(productIdsArray);
